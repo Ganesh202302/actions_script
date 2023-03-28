@@ -4,6 +4,6 @@ mkdir git_test
 cd git_test
 git init
 git clone https://github.com/Ganesh202302/CMake.git
+git pull master
 git branch -a
-git pull
 echo "end of this script"
